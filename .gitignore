@@ -1,0 +1,4 @@
+[label .gitignore]
+.venv
+db.sqlite3
+*.pyc
